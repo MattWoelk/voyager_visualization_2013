@@ -12,11 +12,11 @@
 },
 {"date": "03-05-1979",
  "text": "Voyager 1 makes its closest approach to Jupiter",
- "src": "http://voyager.jpl.nasa.gov/imagesvideo/images/voyager2_large.jpg"
+ "src": "http://www.nasa.gov/centers/jpl/images/content/92991main_PIA01384-browse.jpg"
 },
 {"date": "07-09-1979",
  "text": "Voyager 2 makes its closest approach to Jupiter",
- "src": "http://voyager.jpl.nasa.gov/imagesvideo/images/voyager2_large.jpg"
+ "src": "http://nssdc.gsfc.nasa.gov/imgcat/hires/vg2_p21714.gif"
 },
 {"date": "11-12-1980",
  "text": "Voyager 1 flies by Saturn. Voyager 1 begins its trip out of the Solar System",
