@@ -1,6 +1,6 @@
 [{"date": "1977",
  "text": "Mariner Jupiter/Saturn 1977 is renamed Voyager",
- "src": "http://voyager.jpl.nasa.gov/imagesvideo/images/voyager2_large.jpg"
+ "src": "http://nssdc.gsfc.nasa.gov/image/planetary/solar_system/family_diagram.jpg"
 },
 {"date": "08-20-1977",
  "text": "Voyager 2 launched from Kennedy Space Flight Center",
