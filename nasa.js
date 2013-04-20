@@ -20,7 +20,7 @@
 },
 {"date": "11-12-1980",
  "text": "Voyager 1 flies by Saturn. Voyager 1 begins its trip out of the Solar System",
- "src": "http://voyager.jpl.nasa.gov/imagesvideo/images/voyager2_large.jpg"
+ "src": "http://solarsystem.nasa.gov/multimedia/gallery/Saturn_By_VoyagerMultimedia_732.jpg"
 },
 {"date": "08-25-1981",
  "text": "Voyager 2 flies by Saturn",
