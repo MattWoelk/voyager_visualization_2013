@@ -28,7 +28,7 @@
 },
 {"date": "1982",
  "text": "Deep Space Network upgrades two 26-m antennas to 34-m",
- "src": "http://voyager.jpl.nasa.gov/imagesvideo/images/voyager2_large.jpg"
+ "src": "http://upload.wikimedia.org/wikipedia/commons/9/9b/Madrid_Deep_Space_Network_Complex.jpg"
 },
 {"date": "01-24-1986",
  "text": "Voyager 2 has the first-ever encounter with Uranus. Deep Space Network begins expansion of 64-m antennas to 70-m",
