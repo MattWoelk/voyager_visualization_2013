@@ -105,7 +105,9 @@ function mo(data, dat) {
   svg.selectAll("circle")
     .attr("r", function (d) { if (d.date === dat.date) {return 20;} else { return 10; }});
   d3.select("#textp").text(dat.text);
+  d3.select("#imgp").attr("src", dat.src);
 }
 
 </script>
   <p id='textp'>Hover over a circle to show the milestone.</p>
+  <img id='imgp' src="http://voyager.jpl.nasa.gov/imagesvideo/images/voyager2_large.jpg" />
