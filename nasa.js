@@ -64,5 +64,5 @@
 },
 {"date": "09-05-2007",
  "text": "Voyager 2 crosses Termination Shock",
- "src": "http://www.spacetoday.org/images/SolSys/TheVoyagers/VoyagerReverse.jpg"
+ "src": "http://upload.wikimedia.org/wikipedia/commons/8/88/Voyagers_in_the_Heliosheath.jpg"
 }]
