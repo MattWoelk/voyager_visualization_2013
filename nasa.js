@@ -8,7 +8,7 @@
 },
 {"date": "09-05-1977",
  "text": "Voyager 1 launched from Kennedy Space Flight Center. Voyager 1 returns first spacecraft photo of Earth and Moon",
- "src": "http://voyager.jpl.nasa.gov/imagesvideo/images/voyager2_large.jpg"
+ "src": "http://upload.wikimedia.org/wikipedia/commons/6/6a/First_Picture_of_the_Earth_and_Moon_in_a_Single_Frame_-_GPN-2002-000202.jpg"
 },
 {"date": "03-05-1979",
  "text": "Voyager 1 makes its closest approach to Jupiter",
