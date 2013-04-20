@@ -4,7 +4,7 @@
 },
 {"date": "08-20-1977",
  "text": "Voyager 2 launched from Kennedy Space Flight Center",
- "src": "http://voyager.jpl.nasa.gov/imagesvideo/images/voyager2_large.jpg"
+ "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Titan_3E_Centaur_launches_Voyager_2.jpg"
 },
 {"date": "09-05-1977",
  "text": "Voyager 1 launched from Kennedy Space Flight Center. Voyager 1 returns first spacecraft photo of Earth and Moon",
