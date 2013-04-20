@@ -61,7 +61,7 @@ var svg = d3.select("body").append("svg")
 d3.json("nasa.js", function(error, data) {
   data.forEach(function(d) {
     d.date = parseDate(d.date);
-    d.close = +d.close;
+    d.text = d.text;
   });
 
   x.domain(d3.extent(data, function(d) { return d.date; }));
@@ -82,6 +82,11 @@ d3.json("nasa.js", function(error, data) {
     //  .style("text-anchor", "end")
     //  .text("Price ($)");
 
+    svg.append("path")
+        .datum(data)
+        .attr("class", "line")
+        .attr("d", line);
+
     svg.selectAll("circle")
       .data(data)
       .enter()
@@ -90,14 +95,17 @@ d3.json("nasa.js", function(error, data) {
           return x(d.date);
         })
         .attr("cy", function (d) {
-          return y(5);
+          return y(1);
         })
-        .attr("r", 5);
-
-  svg.append("path")
-      .datum(data)
-      .attr("class", "line")
-      .attr("d", line);
+        .attr("r", 10)
+        .on("mouseover", function (d) { mo(data, d); });
 });
 
+function mo(data, dat) {
+  svg.selectAll("circle")
+    .attr("r", function (d) { if (d.date === dat.date) {return 20;} else { return 10; }});
+  d3.select("#textp").text(dat.text);
+}
+
 </script>
+  <p id='textp'>Hover over a circle to show the milestone.</p>
